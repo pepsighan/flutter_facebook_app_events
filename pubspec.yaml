@@ -22,5 +22,3 @@ flutter:
       android:
         package: id.oddbit.flutter.facebook_app_events
         pluginClass: FacebookAppEventsPlugin
-      ios:
-        pluginClass: FacebookAppEventsPlugin
